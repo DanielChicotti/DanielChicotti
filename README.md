@@ -26,7 +26,7 @@
 ---
 
 ## 🧰 DevOps & Outras Ferramentas:
-![Git](https://img.shields.io/badge/-Git-1E1E2E?style=for-th)
+![Git](https://img.shields.io/badge/-Git-1E1E2E?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-1E1E2E?style=for-the-badge&logo=github)
 ![JIRA](https://img.shields.io/badge/-JIRA-1E1E2E?style=for-the-badge&logo=jira)
 ![VSCode](https://img.shields.io/badge/-VSCode-1E1E2E?style=for-the-badge&logo=visual-studio-code)
