@@ -13,7 +13,7 @@
 - 🧪 Estudando ferramentas e praticando **testes manuais**
 - 🧭 Também estudando **gestão de projetos** e fundamentos de **QA**
 - 🎓 Cursando **Guardião da Qualidade** na [Lumestack](https://lumestack.com/)
-- ✉️ Contato: [danielchicotti2013@gmail.com)
+- ✉️ Contato: danielchicotti2013@gmail.com
 
 ---
 
